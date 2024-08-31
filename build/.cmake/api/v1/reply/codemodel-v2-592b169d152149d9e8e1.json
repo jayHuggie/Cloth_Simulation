@@ -1,0 +1,408 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cloth_Simulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-3e9b9527ed54deaca063.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cloth_Simulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cloth_Simulation-Debug-b3a24f16e6a179829065.json",
+					"name" : "Cloth_Simulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-Debug-cab997ab5b13df0efe4c.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-Debug-79a5e3864ac7ac9353c0.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-Debug-8c759137ff557ad349f4.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-Debug-3af7aca598a79561eb5c.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-a2233e802d926c68f3f4.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cloth_Simulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-3e9b9527ed54deaca063.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cloth_Simulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cloth_Simulation-Release-1b9462be87f8e462fd27.json",
+					"name" : "Cloth_Simulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-Release-cab997ab5b13df0efe4c.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-Release-79a5e3864ac7ac9353c0.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-Release-8c759137ff557ad349f4.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-Release-3af7aca598a79561eb5c.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-a2233e802d926c68f3f4.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cloth_Simulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-3e9b9527ed54deaca063.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cloth_Simulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cloth_Simulation-MinSizeRel-55125a471b00be37d825.json",
+					"name" : "Cloth_Simulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-MinSizeRel-cab997ab5b13df0efe4c.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-MinSizeRel-79a5e3864ac7ac9353c0.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-MinSizeRel-8c759137ff557ad349f4.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-MinSizeRel-3af7aca598a79561eb5c.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-a2233e802d926c68f3f4.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cloth_Simulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-3e9b9527ed54deaca063.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cloth_Simulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cloth_Simulation-RelWithDebInfo-c3c30dfda589b1c79b57.json",
+					"name" : "Cloth_Simulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyAnim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyAnim-RelWithDebInfo-cab997ab5b13df0efe4c.json",
+					"name" : "CopyAnim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopyShaders-RelWithDebInfo-79a5e3864ac7ac9353c0.json",
+					"name" : "CopyShaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkel-RelWithDebInfo-8c759137ff557ad349f4.json",
+					"name" : "CopySkel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CopySkin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CopySkin-RelWithDebInfo-3af7aca598a79561eb5c.json",
+					"name" : "CopySkin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-a2233e802d926c68f3f4.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Joseph/Documents/CSE169/Cloth_Simulation/build",
+		"source" : "C:/Users/Joseph/Documents/CSE169/Cloth_Simulation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

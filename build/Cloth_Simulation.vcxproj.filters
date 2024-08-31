@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Cube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Tokenizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Joint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Skeleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Skin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Keyframe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Channel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\SpringDamper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Ground.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\src\Cloth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Cube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Tokenizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\DOF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Joint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Skeleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Skin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Keyframe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Channel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Particle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\SpringDamper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Ground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\Cloth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_impl_glfw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_impl_opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imgui_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imstb_rectpack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imstb_textedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\include\imgui\imstb_truetype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{98040DE2-1453-35DF-B938-38ECFE13139C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3CF5287A-4A78-3AD0-B6E7-1CE039D6D321}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

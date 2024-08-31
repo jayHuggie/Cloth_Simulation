@@ -1,0 +1,20 @@
+^C:\USERS\JOSEPH\DOCUMENTS\CSE169\CLOTH_SIMULATION\BUILD\CMAKEFILES\B93C16C61AC6AD15DA793879B8374730\COPYSHADERS.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/Users/Joseph/Documents/CSE169/Cloth_Simulation/shaders C:/Users/Joseph/Documents/CSE169/Cloth_Simulation/build/Debug/shaders
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JOSEPH\DOCUMENTS\CSE169\CLOTH_SIMULATION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Joseph/Documents/CSE169/Cloth_Simulation -BC:/Users/Joseph/Documents/CSE169/Cloth_Simulation/build --check-stamp-file C:/Users/Joseph/Documents/CSE169/Cloth_Simulation/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

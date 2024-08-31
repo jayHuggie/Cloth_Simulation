@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\build\CMakeFiles\b93c16c61ac6ad15da793879b8374730\CopySkin.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Joseph\Documents\CSE169\Cloth_Simulation\build\CMakeFiles\CopySkin" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C6EED40F-41B3-3F1B-8575-6DAD7230E437}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
