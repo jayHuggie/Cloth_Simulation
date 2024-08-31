@@ -1,6 +1,6 @@
 # Cloth Simulation
 
-<img src="/scenes/cloth_video.gif" alt="scene_overview" title="scene_overview" width="500"/>
+<img src="/scenes/cloth_video.gif" alt="scene_overview" title="scene_overview" width="1080"/>
 
 This was my Project for UCSD CSE 169 (Computer Animation) where I had to design a scene in OpenGL from scratch.
 
