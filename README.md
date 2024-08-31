@@ -2,7 +2,7 @@
 
 <img src="/scenes/cloth_video.gif" alt="scene_overview" title="scene_overview" width="1080"/>
 
-This is a simulation of a piece of cloth created using particles, spring-dampers, and triangular surfaces, developed with OpenGL for my CSE 169 (Computer Animation) course at UCSD.
+This is a simulation of a cloth created using particles, spring-dampers, and triangular surfaces, developed with OpenGL for my CSE 169 (Computer Animation) course at UCSD.
 
 # Features:
 
@@ -49,5 +49,9 @@ This is a simulation of a piece of cloth created using particles, spring-dampers
 ```
 git clone https://github.com/jayHuggie/Cloth_Simulation.git
 ```
-* Navigate to the "Release" directory.
-* Open “FinalProject.exe” to run the program!
+* Navigate to the following directory:
+```
+  Cloth_Simulation/build/Debug
+```
+
+* Open “Cloth_Simulation.exe” to run the program!
