@@ -40,14 +40,14 @@ This is a simulation of a piece of cloth created using particles, spring-dampers
 
 * **Real-Time User Interaction**
 
-    Provides controls to adjust the position of fixed particles and influence the cloth's behavior in real time using ImGui.
+    Provides controls to adjust the position of fixed particles and influence the cloth's behavior in real time using **ImGui**.
 
 
 # Launching the Program
 
 * Clone the repository.
 ```
-git clone https://github.com/jayHuggie/First_OpenGL_Project.git
+git clone https://github.com/jayHuggie/Cloth_Simulation.git
 ```
 * Navigate to the "Release" directory.
 * Open “FinalProject.exe” to run the program!
