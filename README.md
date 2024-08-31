@@ -7,7 +7,7 @@ This is a simulation of a piece of cloth created using particles, spring-dampers
 # Features:
 
 
-* ###Particle-Based Cloth Simulation
+* **Particle-Based Cloth Simulation
 
     Implements a cloth model using a system of particles, spring-dampers, and triangular surfaces.
     Simulates realistic cloth behavior with forces such as uniform gravity, spring elasticity, damping, and aerodynamic drag.
