@@ -2,25 +2,12 @@
 
 <img src="/scenes/cloth_video.gif" alt="scene_overview" title="scene_overview" width="1080"/>
 
-This was my Project for UCSD CSE 169 (Computer Animation) where I had to design a scene in OpenGL from scratch.
-
-
-# Goals:
-
-* Implement keyboard controls to move, zoom, and manipulate light.
-* Design a scene using triangle meshes and parametric surfaces with modifiable mesh resolution.
-* Texture mapping the triangle meshes and parametric surfaces by calculating the correct normals and texture coordinates.
-* Add different kinds of lights, and demonstrate the impacts of ambient, diffuse, and specular lights.
-
-
-# Scene Overview:
-
-Inspired by my passion for Rubik's cubes, I created a room featuring a black table, a brass-textured lamp, and my treasured "Glow in the Dark Cube". In 2009, I took part in the “Rubik’s Cube Competition Seoul 2009” in South Korea. To commemorate that, I displayed the competition's official poster on the wall and placed a Speedcube timer on the table, showcasing my official record of 32.16 seconds. Both the lamp and table legs, designed as parametric surfaces with triangle meshes, offer adjustable mesh resolutions via the 'M/m' keys.
+This is a simulation of a piece of cloth created using particles, spring-dampers, and triangular surfaces, developed with OpenGL for my CSE 169 (Computer Animation) course at UCSD.
 
 # Features:
 
 
-* Particle-Based Cloth Simulation
+* ###Particle-Based Cloth Simulation
 
     Implements a cloth model using a system of particles, spring-dampers, and triangular surfaces.
     Simulates realistic cloth behavior with forces such as uniform gravity, spring elasticity, damping, and aerodynamic drag.
